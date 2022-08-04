@@ -19,4 +19,3 @@ while True:
     if cv2.waitKey(1) == ord('a'):
         break
 cv2.destroyAllWindows()
-webcam.release()
